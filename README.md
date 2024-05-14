@@ -1,5 +1,9 @@
 # MetaRP
 We are introducing blockchain technology into the GTA server
+
+Twitter: https://twitter.com/RpMeta0
+TgChannel: @metarp0
+WebSite: -
 #
 по сотрудничеству и предложениям писать в тг: @yansaev1
 # Whitepaper 0.1
